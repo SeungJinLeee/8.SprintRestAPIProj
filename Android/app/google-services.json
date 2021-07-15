@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972186074176",
+    "project_id": "fcmmessagingapp-e9d47",
+    "storage_bucket": "fcmmessagingapp-e9d47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972186074176:android:ed8f39a34f98f0ae3173a5",
+        "android_client_info": {
+          "package_name": "com.kosmo.fcmmessagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972186074176-po9at59vp7pln1ttid7qmb3ga7t19rec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD943HBP-esEfJrI5OSjKffxbREGBSy1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972186074176-po9at59vp7pln1ttid7qmb3ga7t19rec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

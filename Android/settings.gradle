@@ -1,0 +1,2 @@
+rootProject.name = "FCMMessagingApp"
+include ':app'
